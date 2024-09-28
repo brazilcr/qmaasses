@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Erro</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+
+<div class="container">
+    <h1 class="mt-5" th:text="${statusCode}">Erro</h1>
+    <p th:text="${errorMessage}">Uma ocorrência inesperada ocorreu.</p>
+    <p>Por favor, entre em contato com o suporte se o problema persistir.</p>
+    <a class="btn btn-primary" th:href="@{/product/list}">Voltar para a Lista de Produtos</a>
+</div>
+
+</body>
+</html>
