@@ -1,3 +1,5 @@
 <h2>Assessment with CRUD spring / jpa / spring web / mysql for qma</h2>
 
-![resultcrudspringweb](https://github.com/user-attachments/assets/009648ab-0f6c-4a37-93c7-270268a5cea7)
+<div style="max-width:80%;padding-left:8%">
+![resultcrudspringweb](https://github.com/user-attachments/assets/927a1cb3-013b-452c-bf02-2dca1d8e0168)
+</div>
